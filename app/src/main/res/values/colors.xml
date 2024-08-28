@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundmain">#2C2E2D</color>
+    <color name="backgroundlayout">#535454</color>
+    <color name="colortext">#DDDDDD</color>
+    <color name="colortext2">#A4A2A2</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="colorBlue">#0208C7</color>
+    <color name="xam">#7F7F7F</color>
+    <color name="xamDen">#313030</color>
+    <color name="challenge_layout_activate">#0208C7</color>
+    <color name="challenge_layout_deactivate">#A4A2A2</color>
+
+</resources>
